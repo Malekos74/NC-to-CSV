@@ -11,4 +11,4 @@ This code is used to convert a ECMWF .NC file into multiple CSV files that can l
 ### Notes
   - Be careful when inputting the path where the data will get saved, if you input a correct path (The path exists but you don't want to use that)
     the program will create the result folder there.
-  - This script is tailored for the ECMWF NC files. They are readily available [here](data.aicnic.cn//ECMWF//)
+  - This script is tailored for the ECMWF NC files. They are readily available [here](https://data.aicnic.cn//ECMWF//)
